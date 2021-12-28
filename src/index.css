@@ -258,7 +258,7 @@ svg { width: 100%; }
   position: relative;
 }
 
-.opener::before {
+/* .opener::before {
   background-image: var(--opener);
   display: inline-block;
   width: 18px;
@@ -268,7 +268,7 @@ svg { width: 100%; }
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 4px;
-}
+} */
 
 .app.has-sidebar .opener::before {
   background-image: var(--opener-active);

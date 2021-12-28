@@ -205,7 +205,7 @@ class App extends Component {
   handleContentDidMount() {
     const iframe = document.querySelector('iframe');
     iframe.contentWindow.document.addEventListener('keydown', this.keyboardNavigation);
-    iframe.contentWindow.document.addEventListener('click', () => this.setState({ sidebar: false }));
+    // iframe.contentWindow.document.addEventListener('click', () => this.setState({ sidebar: false }));
 
     setTimeout(() => {
       this.setState({
@@ -323,7 +323,7 @@ class App extends Component {
           {this.listRenderer()}
         </aside>
         <div className="toolbar">
-          <button className="opener" onClick={this.toggleSidebar} ref={this.openerRef}>TAILBLOCKS</button>
+          <button className="opener" ref={this.openerRef}>Tailwind-р гялзуул</button>
           {this.state.codeView &&
             <div className="clipboard-wrapper">
               <button className="copy-the-block copy-to-clipboard" onClick={this.copyToClipboard}>
