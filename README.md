@@ -1,4 +1,4 @@
-# Tailblocks
+# Gyalzuul
 ### Ready-to-use Tailwind CSS blocks
 ##### Features
 
@@ -9,7 +9,7 @@
 
 ## How to use this project
 
-[![tailblocks](https://github.com/mertjf/tailblocks/blob/master/public/preview.gif)](https://tailblocks.cc)
+[![gyalzuul](https://github.com/acepmon/gyalzuul/blob/master/public/preview.gif)](https://gyalzuul.gcommunication.mn)
 
 This project provides multiple blocks built using [Tailwind
 CSS](https://tailwindcss.com/) that you can use in your own projects. This
@@ -18,7 +18,7 @@ you with HTML that you can easily copy and paste into your own project.
 
 To use the project:
 
-1. Go to the [Tailblocks](https://tailblocks.cc)
+1. Go to the [Gyalzuul](https://gyalzuul.gcommunication.mn)
 1. Select a block that you would like to use.
 1. Choose a color from the color palette for the block you selected.
 1. Select whether you would like to use light or dark mode with the dark/light toggle button.
@@ -29,4 +29,4 @@ To use the project:
 
 ## License
 
-Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/mertjf/tailblocks/blob/master/LICENSE).
+Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/acepmon/gyalzuul/blob/master/LICENSE).
