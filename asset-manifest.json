@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gyalzuul/static/css/main.61139317.chunk.css",
-    "main.js": "/gyalzuul/static/js/main.f2e10530.chunk.js",
-    "main.js.map": "/gyalzuul/static/js/main.f2e10530.chunk.js.map",
+    "main.css": "/gyalzuul/static/css/main.86508abc.chunk.css",
+    "main.js": "/gyalzuul/static/js/main.791fbc1b.chunk.js",
+    "main.js.map": "/gyalzuul/static/js/main.791fbc1b.chunk.js.map",
     "runtime-main.js": "/gyalzuul/static/js/runtime-main.09b3bdbb.js",
     "runtime-main.js.map": "/gyalzuul/static/js/runtime-main.09b3bdbb.js.map",
     "static/js/2.552c2045.chunk.js": "/gyalzuul/static/js/2.552c2045.chunk.js",
     "static/js/2.552c2045.chunk.js.map": "/gyalzuul/static/js/2.552c2045.chunk.js.map",
     "index.html": "/gyalzuul/index.html",
-    "precache-manifest.f2385b4c86037e6befc9edbdf2174dfa.js": "/gyalzuul/precache-manifest.f2385b4c86037e6befc9edbdf2174dfa.js",
+    "precache-manifest.f3b185fc9d056c182f90dc229c35d796.js": "/gyalzuul/precache-manifest.f3b185fc9d056c182f90dc229c35d796.js",
     "service-worker.js": "/gyalzuul/service-worker.js",
-    "static/css/main.61139317.chunk.css.map": "/gyalzuul/static/css/main.61139317.chunk.css.map",
+    "static/css/main.86508abc.chunk.css.map": "/gyalzuul/static/css/main.86508abc.chunk.css.map",
     "static/js/2.552c2045.chunk.js.LICENSE.txt": "/gyalzuul/static/js/2.552c2045.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09b3bdbb.js",
     "static/js/2.552c2045.chunk.js",
-    "static/css/main.61139317.chunk.css",
-    "static/js/main.f2e10530.chunk.js"
+    "static/css/main.86508abc.chunk.css",
+    "static/js/main.791fbc1b.chunk.js"
   ]
 }
