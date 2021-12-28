@@ -9,8 +9,6 @@
 
 ## How to use this project
 
-[![gyalzuul](https://github.com/acepmon/gyalzuul/blob/master/public/preview.gif)](https://gyalzuul.gcommunication.mn)
-
 This project provides multiple blocks built using [Tailwind
 CSS](https://tailwindcss.com/) that you can use in your own projects. This
 project is not a dependency that you add to your project, but instead provides
@@ -29,4 +27,4 @@ To use the project:
 
 ## License
 
-Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/acepmon/gyalzuul/blob/master/LICENSE).
+Code copyright 2021 Acepmon. Code released under [the MIT license](https://github.com/acepmon/gyalzuul/blob/master/LICENSE).
